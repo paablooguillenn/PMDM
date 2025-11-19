@@ -26,9 +26,3 @@ La clase `Client` está definida como una `data class` de Kotlin y contiene los 
 *   `phone: String`: El número de teléfono de contacto del cliente.
 
 Todos los datos se almacenan localmente en el dispositivo en una base de datos SQLite. La clase `DatabaseHelper` gestiona la creación de la tabla `clients` y todas las operaciones CRUD (Crear, Leer, Actualizar, Borrar).
-
-## Capturas de Pantalla
-
-**<-- IMPORTANTE: AÑADE AQUÍ TUS CAPTURAS DE PANTALLA -->**
-
-*(Haz capturas de la pantalla principal, del formulario de añadir/editar y del diálogo de confirmación para borrar, y pégalas aquí)*
